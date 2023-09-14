@@ -3,6 +3,8 @@
 ### Model 
 
 For this project I am using 'bert-base-cased'.
+It's pretrained model on English language using a masked language modeling (MLM) objective. It was introduced in <a href='https://arxiv.org/abs/1810.04805'>the paper</a> and first released in this repository. <a href='https://github.com/google-research/bert'>The model</a> is case-sensitive: it makes a difference between english and English.
+
 
 ### Why 'bert-base-cased'? 
 
@@ -16,6 +18,7 @@ To contribute to the project or if you have any comments or advice, please conta
 
 This project uses reviews from 33 applications, the max length being determined by the longest review
 <img src='https://github.com/v3xlrm1nOwo1/Google-Play-Sentiment-Analysis-With-BERT/blob/99a077da77dd114a8657736a735c1fd7497daaf8/apps.png' />
+
 
 ### Note
 
