@@ -14,7 +14,7 @@ Because in a task like sentiment analysis, people usually write words with a cap
 
 ### Dataset
 
-This project uses reviews from 33 applications, the max length being determined by the longest review
+This project uses reviews from 33 applications, the max length being determined by the longest review.
 <img src='https://github.com/v3xlrm1nOwo1/Google-Play-Sentiment-Analysis-With-BERT/blob/99a077da77dd114a8657736a735c1fd7497daaf8/apps.png' />
 
 
